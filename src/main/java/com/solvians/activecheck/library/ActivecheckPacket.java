@@ -1,4 +1,4 @@
-package com.solvians.activecheckalarmcallback.callback;
+package com.solvians.activecheck.library;
 
 import java.io.Serializable;
 

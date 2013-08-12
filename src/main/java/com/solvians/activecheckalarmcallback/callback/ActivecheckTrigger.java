@@ -6,6 +6,9 @@ import java.net.Socket;
 import org.graylog2.plugin.alarms.Alarm;
 import org.graylog2.plugin.alarms.callbacks.AlarmCallbackException;
 
+import com.solvians.activecheck.library.ActivecheckPacket;
+import com.solvians.activecheck.library.ActivecheckSeverity;
+
 /**
  * @author Frederik Happel <frederik.happel@solvians.com>
  */
